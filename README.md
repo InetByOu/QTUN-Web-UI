@@ -1,6 +1,6 @@
 # QTUN WebUI Magisk Module
 
-**QTUN WebUI V1.0.0** adalah module **Magisk** untuk menjalankan **QTUN Tunneling Control Panel** di perangkat Android dengan dukungan **PHP7 webserver**.
+**QTUN WebUI** adalah module **Magisk** untuk menjalankan **QTUN Tunneling Control Panel** di perangkat Android dengan dukungan **PHP7 webserver**.
 
 Project ini memudahkan pengelolaan:
 - login web panel
