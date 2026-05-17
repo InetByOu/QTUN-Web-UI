@@ -64,7 +64,7 @@ http://localhostkamu
 
 ```text
 Username : admin
-Password : gstgg47e
+Password : admin123
 ```
 
 ## Struktur Umum
